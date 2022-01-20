@@ -1,7 +1,4 @@
 Nama : adul
-
 Nilai Rata-Rata : 85,00
-
 Grade : B
-
 Hasil :Lulus
